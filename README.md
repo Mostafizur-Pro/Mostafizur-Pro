@@ -102,5 +102,4 @@ Mostafizur-Pro&theme=react&hide_border=false)
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=
-Mostafizur-Pro.Mostafizur-Pro)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mostafizur-Pro.Mostafizur-Pro)
