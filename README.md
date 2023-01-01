@@ -87,7 +87,7 @@ OTHER'S SKILLS :
 <!-- [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) -->
 <!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nwebpro&theme=react&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mostafizur-Pro&theme=react&hide_border=false)
 
 ### ✍️ Random Dev Quote
 
@@ -95,10 +95,9 @@ OTHER'S SKILLS :
 
 ### Business
 
-:email: &emsp;abnaeem.bsc@gmail.com
-<br >
-:email: &emsp;nwebpro.work@gmail.com
+:email: &emsp;mostafizur0195@gmail.com
+
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nwebpro.nwebpro)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mostafizur-Pro.Mostafizur-Pro)
