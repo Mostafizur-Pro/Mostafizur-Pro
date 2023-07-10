@@ -2,7 +2,7 @@
 
 ### Hi there my gorgeous friend👋
 
-Hello Dear
+Hello Dear, <br/>
 My name is Mostafizur Rahman, I'm from Bangladesh. I am a student studying for a Bachelor of Computer Science. I also like to do web coding, fixing problems and designing websites. I always learn new and updated things. Coding & Designing are part of my life.
 
 SKILLS :
@@ -30,8 +30,7 @@ OTHER'S SKILLS :
     </a>
     <!-- Twitter -->
     <!-- <a target="_blank" href="mostafizur0195@gmail.com">
-    <img src='assets/icons/'> -->
-    </a>
+    <img src='assets/icons/'>  </a> -->
 </p>
 <br />
 <!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mostafizur.proo) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafizur-pro/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafizur0195@gmail.com)
@@ -100,7 +99,7 @@ Mostafizur-Pro">
 
 [![Adobe Photoshop Badge](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)](#)
 [![Adobe Illustrator Badge](https://img.shields.io/badge/adobe_illustrator-%23FF7D00.svg?style=for-the-badge&labelColor=black&logo=adobe%20illustrator&logoColor=FF7D00)](#)
-[![AutoDesk AutoCAD 2D & 3D Badge](https://img.shields.io/badge/AutoDesk_AutoCAD-%23FF7D00.svg?style=for-the-badge&labelColor=black&logo=adobe%20illustrator&logoColor=FF7D00)](#)
+[![AutoDesk AutoCAD 2D & 3D Badge](https://img.shields.io/badge/AutoDesk_AutoCAD-%23FF7D00.svg?style=for-the-badge&labelColor=black&logo=adobe%20autocad&logoColor=FF7D00)](#)
 
 <!-- [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) -->
 <!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
