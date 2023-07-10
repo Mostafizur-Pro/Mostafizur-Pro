@@ -18,18 +18,19 @@ OTHER'S SKILLS :
 
 :coffee: &emsp;Connect with me!
 <br />
+
 <p align="center">
     <!-- linkedIN -->
-    <a target="_blank" href="https://www.linkedin.com/in/sorwar-talukder/">
-    <img src='images/icons/Linkedin.png'>
+    <a target="_blank" href="https://www.linkedin.com/in/mostafizur-pro/">
+    <img src='assets/icons/Linkedin.png'>
     </a>
     <!-- Facebook -->
     <a target="_blank" href="https://www.facebook.com/mostafizur.proo">
-    <img src='images/icons/Facebook.png'>
+    <img src='assets/icons/Facebook.png'>
     </a>
     <!-- Twitter -->
-    <a target="_blank" href="https://twitter.com/sorwar_talukder">
-    <img src='images/icons/Twitter.png'>
+    <!-- <a target="_blank" href="mostafizur0195@gmail.com">
+    <img src='assets/icons/'> -->
     </a>
 </p>
 <br />
