@@ -1,9 +1,12 @@
+<img src='assets/assets/Blue Gaming Facebook Cover.gif'>
+
+
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Frontend+Developer;I'm+a+Backend+Developer;" alt="Typing SVG" /></a></p>
 
 ### Hi there my gorgeous friend👋
 
 Hello Dear, <br/>
-My name is Mostafizur Rahman, I'm from Bangladesh. I am a student studying for a Bachelor of Computer Science. I also like to do web coding, fixing problems and designing websites. I always learn new and updated things. Coding & Designing are part of my life.
+My name is Mostafizur Rahman, I'm from Bangladesh. I am a student studying for a Bachelor of Computer Science. I also like to do web coding, fixing problems, and designing websites. I always learn new and updated things. Coding & Design are part of my life.
 
 SKILLS :
 => Front End Design (HTML5, CSS3, Bootstrap, Tailwind CSS, ReactJS, Figma, Firebase)
