@@ -43,11 +43,14 @@ Mostafizur-Pro">
 <img src="https://api.daily.dev/devcards/b938f35fbd7645579d970bb20950bfd6.png?r=zpd" align="right" width="250" alt="Ab Naeem's Dev Card"/>
 </a>
 
+<!--
 ### Github Stats
 
 ![Mostafizur Rahman github stats](https://github-readme-stats.vercel.app/api?username=Mostafizur-Pro&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafizur-Pro&layout=compact&theme=tokyonight&hide")
+
+ -->
 
 <!-- ## 💻 Things I code with -->
 
