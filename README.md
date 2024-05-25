@@ -37,15 +37,17 @@ OTHER'S SKILLS :
 </p>
 <br />
 
+<a href="https://app.daily.dev/
+Mostafizur-Pro">
+<img src="https://api.daily.dev/devcards/b938f35fbd7645579d970bb20950bfd6.png?r=zpd" align="right" width="250" alt="Ab Naeem's Dev Card"/>
+</a>
+
 <!--
  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mostafizur.proo) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafizur-pro/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafizur0195@gmail.com)
 
 
 
-<a href="https://app.daily.dev/
-Mostafizur-Pro">
-<img src="https://api.daily.dev/devcards/b938f35fbd7645579d970bb20950bfd6.png?r=zpd" align="right" width="250" alt="Ab Naeem's Dev Card"/>
-</a>
+
 
  -->
 
