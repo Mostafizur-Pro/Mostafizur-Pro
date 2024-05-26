@@ -134,4 +134,4 @@ Mostafizur-Pro">
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mostafizur-Pro.Mostafizur-Pro)
+![](https://hit.yhype.me/github/profile?user_id=1849174)
