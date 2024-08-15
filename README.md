@@ -24,14 +24,22 @@ My name is Mostafizur Rahman, and I'm from Bangladesh. I am currently pursuing a
 - **Adobe Tools:** Photoshop, Illustrator, InDesign
 
 ### :coffee: Connect with me!
+<br />
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/mostafizur-pro/" target="_blank">
-      <img src="assets/icons/Linkedin.png" alt="LinkedIn" style="width:40px; height:40px; margin:0 10px;">
+    <!-- linkedIN -->
+    <a target="_blank" href="https://www.linkedin.com/in/mostafizur-pro/">
+    <img src='assets/icons/Linkedin.png'>
     </a>
-    <a href="https://www.facebook.com/mostafizur.proo" target="_blank">
-      <img src="assets/icons/Facebook.png" alt="Facebook" style="width:40px; height:40px; margin:0 10px;">
+    <!-- Facebook -->
+    <a target="_blank" href="https://www.facebook.com/mostafizur.proo">
+    <img src='assets/icons/Facebook.png'>
     </a>
+    <!-- Twitter -->
+    <!-- <a target="_blank" href="mostafizur0195@gmail.com">
+    <img src='assets/icons/'>  </a> -->
 </p>
+<br />
 
 ### Github Stats
 <p align="center">
